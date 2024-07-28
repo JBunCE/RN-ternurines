@@ -1,4 +1,4 @@
-./testing/
-./vids/
-./model.h5
-./test_model.py
+testing/
+vids/
+model.h5
+test_model.py
